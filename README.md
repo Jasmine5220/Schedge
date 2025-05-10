@@ -113,4 +113,4 @@ MIT License
 
 ## 💬 Say Hi!
 
-Made with 💙 and a little bit of sass by \Jasmine5220
+Made with 💙 and a little bit of sass by [Jasmine5220](https://github.com/Jasmine5220)
